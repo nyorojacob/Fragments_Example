@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello Fragments_Example!</string>
     <string name="app_name">Fragments_Example</string>
+	<string name="textView">TextView</string>
+	<string name="button1">Button 1</string>
+	<string name="button2">Button 2</string>
 </resources>
